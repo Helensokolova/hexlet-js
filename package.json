@@ -1,0 +1,15 @@
+{
+  "name": "First npm",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "My first npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sokolova Lena",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
